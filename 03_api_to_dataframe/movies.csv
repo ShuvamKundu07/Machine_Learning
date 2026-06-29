@@ -1,0 +1,101 @@
+,id,originalTitle,numVotes,averageRating,spokenLanguages
+0,tt41059410,Bear Grylls Is Running Wild,66.0,6.3,['en']
+1,tt21103218,The Lost Bus,54585.0,6.8,['en']
+2,tt27706593,The Rivals of Amziah King,311.0,7.9,['en']
+3,tt31937790,Superhuman Body: World of Medical Marvels,25.0,6.9,['en']
+4,tt27590028,The Oscars,1634.0,6.7,"['en', 'es']"
+5,tt29580199,Unsolved Mysteries: Behind the Legacy,114.0,7.4,['en']
+6,tt23219702,2023 CMT Music Awards,64.0,5.9,['en']
+7,tt10814036,Agent Elvis,2937.0,6.8,['en']
+8,tt18967390,Deep in the Heart: A Texas Wildlife Story,283.0,7.6,['en']
+9,tt12688170,The Kids Tonight Show,69.0,5.2,
+10,tt14477048,Oscars: Into the Spotlight,29.0,5.6,['en']
+11,tt13819950,Stephen A's World,41.0,4.7,
+12,tt6467266,Sing 2,101836.0,7.3,['en']
+13,tt12179810,The Anytime Show with Mister H. I.,33.0,5.8,['en']
+14,tt11358806,Cup of Joe,88.0,7.4,['en']
+15,tt13308412,Drew & A,16.0,4.6,['en']
+16,tt12599288,Uncomfortable Conversations with a Black Man,24.0,6.6,['en']
+17,tt10171532,The Oprah Conversation,458.0,4.0,['en']
+18,tt9821508,IMDb at SXSW,32.0,6.5,
+19,tt6476140,Serenity,49612.0,5.4,"['en', 'fr']"
+20,tt6511932,The Beach Bum,26712.0,5.5,"['en', 'es']"
+21,tt9398640,Between Two Ferns: The Movie,39227.0,6.1,['en']
+22,tt8367814,The Gentlemen,459583.0,7.8,"['en', 'ru', 'es', 'zh']"
+23,tt11568358,eTalk Presents: TIFF 2018 presented by Bell,,,['en']
+24,tt8027544,The Oscars Opening Ceremony: Live from the Red Carpet,40.0,8.0,['en']
+25,tt4537896,White Boy Rick,49042.0,6.5,['en']
+26,tt10452542,Harvey Can't Mess with Texas,,,['en']
+27,tt7770020,U2 at the BBC,67.0,7.4,['en']
+28,tt6634050,The Envelope,19.0,6.0,['en']
+29,tt6391108,Big Fan,65.0,4.8,['en']
+30,tt3180122,John G. Avildsen: King of the Underdogs,191.0,7.6,['en']
+31,tt1648190,The Dark Tower,156208.0,5.6,['en']
+32,tt5816346,Stand Up to Cancer,32.0,6.4,['en']
+33,tt6408336,Rock the Troops,14.0,5.1,['en']
+34,tt32028245,The Actor's Side with Pete Hammond,,,['en']
+35,tt6198486,The 50th Annual CMA Awards,29.0,7.6,['en']
+36,tt1124037,Free State of Jones,68392.0,6.9,['en']
+37,tt4302938,Kubo and the Two Strings,147309.0,7.7,['en']
+38,tt3470600,Sing,214005.0,7.1,"['en', 'ja']"
+39,tt1800302,Gold,74435.0,6.7,"['en', 'id']"
+40,tt5070048,IMDb Asks,201.0,7.1,['en']
+41,tt11859078,The American Cinematheque Tribute to Reese Witherspoon,,,['en']
+42,tt5087172,Think It Up,,,['en']
+43,tt4459236,The Friars Club Super Bowl Roast of Terry Bradshaw,13.0,7.8,['en']
+44,tt3450900,The Sea of Trees,19828.0,6.1,"['en', 'ja']"
+45,tt32246098,Bustle: YouTube Channel,,,
+46,tt3410698,The 2014 Film Independent Spirit Awards,57.0,6.2,['en']
+47,tt4415360,The Science of Interstellar,707.0,7.1,['en']
+48,tt4172224,Interstellar: Nolan's Odyssey,248.0,7.0,['en']
+49,tt0816692,Interstellar,2549188.0,8.7,['en']
+50,tt2356777,True Detective,759477.0,8.8,['en']
+51,tt3391950,The Hollywood Reporter in Focus,16.0,6.8,['en']
+52,tt3281320,The Hollywood Reporter Roundtables,50.0,6.0,['en']
+53,tt3216832,Secret Lives of the Super Rich,81.0,6.2,['en']
+54,tt0790636,Dallas Buyers Club,549859.0,7.9,"['en', 'ja']"
+55,tt0993846,The Wolf of Wall Street,1798638.0,8.2,"['en', 'fr']"
+56,tt1725029,Man in the Glass: The Dale Brown Story,15.0,7.4,['en']
+57,tt2226228,A Moment With,30.0,4.6,['en']
+58,tt2276210,The Hollywood Fast Lane,46.0,5.9,['en']
+59,tt2185933,IC Places Hollywood,44.0,5.3,['en']
+60,tt1496422,The Paperboy,41902.0,5.7,['en']
+61,tt1935179,Mud,200159.0,7.3,['en']
+62,tt1915581,Magic Mike,152919.0,6.1,['en']
+63,tt2132638,Close Up,64.0,6.4,"['en', 'fr']"
+64,tt1704573,Bernie,67384.0,6.8,['en']
+65,tt1189340,The Lincoln Lawyer,270983.0,7.3,['en']
+66,tt1625351,The 83rd Annual Academy Awards,1676.0,6.3,['en']
+67,tt1726669,Killer Joe,88712.0,6.7,['en']
+68,tt1316064,Made in China,282.0,5.8,['en']
+69,tt0821640,Ghosts of Girlfriends Past,99980.0,5.8,"['en', 'ja', 'zh', 'es']"
+70,tt0976247,"Surfer, Dude",9524.0,4.6,['en']
+71,tt0770752,Fool's Gold,90177.0,5.7,['en']
+72,tt6282514,The Role That Changed My Life,26.0,3.9,['en']
+73,tt0950474,What It Takes,31.0,6.5,['en']
+74,tt0934911,MovieReal: We Are Marshall,33.0,7.8,['en']
+75,tt0800104,Keith Barry: Extraordinary,42.0,7.7,['en']
+76,tt0758794,We Are Marshall,67958.0,7.1,['en']
+77,tt0875887,Fuse Celebrity Playlist,21.0,3.6,['en']
+78,tt0427229,Failure to Launch,95277.0,5.7,['en']
+79,tt0450351,My Crazy Life,27.0,7.0,['en']
+80,tt0478966,Absolute Evel: The Evel Knievel Story,41.0,7.1,['en']
+81,tt0847883,Making Dazed,102.0,7.7,['en']
+82,tt0417217,Two for the Money,55086.0,6.2,['en']
+83,tt0318649,Sahara,109737.0,6.1,"['en', 'fr', 'ar']"
+84,tt0356622,Frat Boys,30.0,5.4,['en']
+85,tt0361185,Freedom: A History of US,512.0,5.7,['en']
+86,tt0251127,How to Lose a Guy in 10 Days,324497.0,6.5,['en']
+87,tt1058545,The Lost Dinosaurs of Egypt,17.0,6.7,['en']
+88,tt0376434,Tinseltown TV,944.0,4.6,['en']
+89,tt0253556,Reign of Fire,153137.0,6.2,['en']
+90,tt0316768,Tiptoes,6778.0,4.2,['en']
+91,tt0268690,Thirteen Conversations About One Thing,10633.0,7.0,"['en', 'de', 'it']"
+92,tt0264616,Frailty,100643.0,7.2,['en']
+93,tt0209475,The Wedding Planner,93301.0,5.4,"['en', 'it']"
+94,tt5032110,Nulle part ailleurs: midi,7.0,6.8,
+95,tt0141926,U-571,92202.0,6.6,"['en', 'de']"
+96,tt0131369,EDtv,46812.0,6.1,['en']
+97,tt0287789,Waking in Mississippi,20.0,7.5,['en']
+98,tt0773260,Bravo Profiles: The Entertainment Business,74.0,6.4,['en']
+99,tt0120769,The Newton Boys,13229.0,6.1,['en']
