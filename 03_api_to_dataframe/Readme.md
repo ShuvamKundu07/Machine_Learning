@@ -4,7 +4,7 @@ This project demonstrates how to fetch movie data from the **IMDb236 API** on Ra
 
 ## What I Learned
 
-* Set up and use the IMDb236 API through RapidAPI.
+* Set up and use the IMDb236 API through RapidAPI (https://rapidapi.com/hub).
 * Securely store API credentials using a `.env` file and `python-dotenv`.
 * Send HTTP GET requests using the `requests` library.
 * Parse JSON responses returned by the API.
